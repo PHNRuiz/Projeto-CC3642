@@ -1,0 +1,5 @@
+<map id="Veiculo" name="Veiculo">
+<area shape="rect" id="node2" href="$class_caminhao.html" title="Caminhao" alt="" coords="5,80,85,107"/>
+<area shape="rect" id="node3" href="$class_carro.html" title="Carro" alt="" coords="109,80,163,107"/>
+<area shape="rect" id="node4" href="$class_moto.html" title="Moto" alt="" coords="187,80,237,107"/>
+</map>
